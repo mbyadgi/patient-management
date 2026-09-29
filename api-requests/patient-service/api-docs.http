@@ -1,0 +1,4 @@
+### GET request to get Open-Api swagger docs
+GET http://localhost:4000/v3/api-docs
+
+###
